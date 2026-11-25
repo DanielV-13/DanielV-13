@@ -14,7 +14,7 @@
 
 I'm a Computer Engineering student at **Universidad de Especialidades Espíritu Santo (UEES)** in Guayaquil, Ecuador, currently on an exchange semester at the **Universidad de Oviedo** in Spain, where I'm taking Data Analysis in Modern Physics, Nuclear and Particle Physics, and Intelligent Systems.
 
-Physics came first: national physics olympiads and my school's physics club. My city has no physics degree, so I chose computing, and it turned out to be my way back in. Today I work where the two meet: machine learning and statistics applied to particle-physics data.
+What pulls me in is the data behind science. A particle collider records millions of collisions, and almost all of them are background: finding the few that matter is as much a problem of statistics and machine learning as it is of physics. That is the kind of work I enjoy most, taking real scientific data, understanding where it comes from, and building models I can explain, not just train. My courses in Oviedo let me do exactly that with particle-physics data, and it's the direction I want to keep growing in.
 
 - **3rd place**, WiDS Datathon 2026 (ESPOL): wildfire evacuation routes for Guayaquil
 - **Dean's List** at UEES, overall GPA 95.46/100
